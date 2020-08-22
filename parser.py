@@ -27,7 +27,7 @@ for item in data:
     url_list.append(url)
 
 # save result
-with open('character_and_creatures.txt.txt', 'w') as file:
+with open('character_and_creatures.txt', 'w') as file:
     for item in url_list:
         file.writelines(item + '\n')
 

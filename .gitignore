@@ -5,3 +5,4 @@ chromedriver.exe
 url_list.txt
 __pycache__/
 debug.log
+captions/
