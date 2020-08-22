@@ -1,0 +1,5 @@
+.vscode
+venv/
+chromedriver
+url_list.txt
+__pycache__/
