@@ -2,7 +2,7 @@ import os
 
 files = os.listdir("captions")
 
-with open("all_text.txt", "w") as main_doc:
+with open("data_character_and_creatures.txt", "w") as main_doc:
 
     index = 0
     for file_name in files:
