@@ -1,5 +1,6 @@
 .vscode
 venv/
 chromedriver
+chromedriver.exe
 url_list.txt
 __pycache__/
